@@ -1,9 +1,23 @@
-# CS648 Assignment-1
+![Company Logo](https://www.designevo.com/res/templates/thumb_small/blue-and-green-circular-fish-company.png)
+
+# Welcome to Flairtales Pvt. Ltd.
+With innovative approaches and advanced methodologies, Flairtales is a media platform that provides insight into fast growing and diversified world of Indian Fashion startups and to help companies achieve success through revenue increase, cost management, and user satisfaction. Our approach stems from the three most important business growth aspects: helping companies reach prospects, assist in converting prospects to customers, and assist in retaining those customers. This is accomplished through our interactive solutions and expertise in providing a memorable and positive user experience.
+
+## Contact Us
+Flairtales Pvt. Ltd.
+6560 Montezuma Road, 
+Penthouse Apartments #205, 
+San Diego, CA 92115.
++1 (619)-919-6394
+
+# This is what I've learnt:
+
+## CS648 Assignment-1
 
 CS648 Assignment 1 is a demo website to learn the basics of _HTML5, GitHub, and Markdown_. This webpage is made to test and learn Git repository hosting server, formatting the readme page inturn to get a rich text using plain text editor, and important basics of _HTML5_.
 Here, I have created a readme markdown file to learn and demonstrate various features of markdown.
 
-## A Simple Web Page: Welcome to Flairtales.
+### A Simple Web Page: Welcome to Flairtales.
 Let me explain the structure of web page in further details. The Structure of a simple webpage consists of two major parts:
 
 1. **The Doctype Declaration:**
@@ -52,5 +66,11 @@ All the tags used in a web page has an attribute that dictates certain aspects o
 	</body>
 	</html>
 
-# Thank You!!
+## Tools & IDE Used:
+
+* Visual Studio Code
+* HTML5
+* GitHub
+
+## Thank You!!
 ![Yo](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/200/sign-of-the-horns_1f918.png)
